@@ -4,7 +4,7 @@
   "description": "",
   "module": {
     "source": "terraform.zorg..local/terraform-modules-examples/virtual-machine/azurerm",
-    "ref": "2.0.0"
+    "ref": "3.0.0"
   },
   "inputs": [
     {
