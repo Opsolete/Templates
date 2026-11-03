@@ -49,8 +49,12 @@
     {
       "name": "os_type",
       "label": "windows or linux.",
-      "type": "string",
+      "type": "select",
       "required": false,
+      "options": [
+        "windows",
+        "linux"
+      ],
       "default": "windows"
     },
     {
