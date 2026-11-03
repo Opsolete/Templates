@@ -3,7 +3,7 @@
   "name": "Virtual Machine",
   "description": "",
   "module": {
-    "source": "opsolete.lan/terraform-modules-examples/virtual-machine/azurerm",
+    "source": "terraform.zorg.local/terraform-modules-examples/virtualmachine/azurerm",
     "ref": "2.0.0"
   },
   "inputs": [
