@@ -68,6 +68,12 @@
       "label": "OpenSSH public key for the admin user, required for Linux (ssh-rsa, 2048 bits or more).",
       "type": "string",
       "required": false
+    },
+    {
+      "name": "owner",
+      "label": "",
+      "type": "string",
+      "required": false
     }
   ]
 }
