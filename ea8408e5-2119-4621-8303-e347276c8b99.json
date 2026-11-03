@@ -1,0 +1,23 @@
+{
+  "id": "ea8408e5-2119-4621-8303-e347276c8b99",
+  "name": "resourcegroup",
+  "description": "",
+  "module": {
+    "source": "terraform.zorg.local/terraform-modules-examples/resourcegroup/azurerm",
+    "ref": "3.0.0"
+  },
+  "inputs": [
+    {
+      "name": "name",
+      "label": "Resource group name: 1-90 letters, digits, _ ( ) - or ., not ending in a period.",
+      "type": "string",
+      "required": true
+    },
+    {
+      "name": "location",
+      "label": "Azure region, e.g. westeurope.",
+      "type": "string",
+      "required": true
+    }
+  ]
+}
