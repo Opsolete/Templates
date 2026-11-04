@@ -61,7 +61,8 @@
       "name": "admin_password",
       "label": "Admin password, required for Windows (12-123 chars, Azure complexity rules).",
       "type": "string",
-      "required": false
+      "required": false,
+      "sensitive": true
     },
     {
       "name": "ssh_public_key",
