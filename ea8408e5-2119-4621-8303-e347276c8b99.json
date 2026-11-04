@@ -1,6 +1,6 @@
 {
   "id": "ea8408e5-2119-4621-8303-e347276c8b99",
-  "name": "resourcegroup",
+  "name": "Resource Group",
   "description": "",
   "module": {
     "source": "terraform.zorg.local/terraform-modules-examples/resourcegroup/azurerm",
